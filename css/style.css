@@ -1,0 +1,47 @@
+body {
+    background-color: #000711;
+}
+
+.text {
+    color: goldenrod;
+    font-family: 'Open Sans', sans-serif;
+    line-height: normal;
+    margin-top: .4rem;
+}
+
+.title {
+    color: goldenrod;
+    font-family: monospace;
+    font-weight: 700;
+    line-height: normal;
+    font-size: 1.6rem;
+}
+
+.main_title {
+    font-size: 2.3rem;
+    margin: 3% 5%;
+}
+
+.main_content {
+    border-left: .3rem solid goldenrod;
+    margin-left: 5%;
+    margin-bottom: 4%;
+}
+
+.content {
+    width: 70%;
+    margin: 2rem 2rem 0 2rem;
+}
+
+.content_list {
+    width: 70%;
+    margin: 2rem 2rem 0 2rem;
+}
+
+.list {
+    list-style-type: disc;
+}
+
+.list_content {
+    margin: auto 1%;
+}
